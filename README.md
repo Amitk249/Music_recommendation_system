@@ -1,3 +1,7 @@
+# Project Status
+The model has issued some error it will be committed to later date 
+
+
 # Music Recommendation System
 
 This project is a comprehensive music recommendation system developed using machine learning algorithms and integrated into a Django web application. The system recommends music to users based on their preferences, utilizing both Content-Based Filtering and Matrix Factorization techniques.
