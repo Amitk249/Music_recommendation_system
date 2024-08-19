@@ -1,6 +1,24 @@
-# Project Status
-The model has issued some error it will be committed to later date 
+## Project Status
 
+**⚠️ Update: The project is currently on hold.**
+
+I have encountered issues with the model and, unfortunately, have deleted the previous files. I am in the process of rebuilding and resolving these issues. The project will be updated at a later date.
+
+### Current Situation
+- **Files Deleted**: Previous files related to the model have been removed.
+- **Rebuilding**: I am working on recreating and fixing the model from scratch.
+
+### Next Steps
+- **Rebuild**: Recreate the necessary files and address the issues.
+- **Testing**: Verify that the new implementation works correctly.
+- **Update**: Commit the new files and provide updates once the issues are resolved.
+
+### How to Stay Updated
+- **Check Back**: Please check this repository periodically for updates on the progress and the new implementation.
+
+Thank you for your patience and understanding during this process!
+
+---
 
 # Music Recommendation System
 
